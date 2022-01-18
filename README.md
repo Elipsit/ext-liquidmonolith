@@ -1,8 +1,9 @@
 # ext-liquidmonolith
-Burning Man 2022; Project Liquid Monolith
+** Burning Man 2022; Project Liquid Monolith **
 
 ## Project Description
 The Liquid Monolith invites participants to see the world through different lenses, by presenting them with a fluid moving display that resembles "Rorschach Inkblot Tests" that helps us unravel their dreams. 
+
 ![LM_Cover_Photo](https://github.com/Elipsit/ext-liquidmonolith/blob/main/pics/media/LM_Cover_Photo.jpg)
 
 ### Current Status
