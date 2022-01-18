@@ -7,7 +7,15 @@ The Liquid Monolith invites participants to see the world through different lens
 
 ### Current Status
 This project is in a prototype development stage<br/>
+
+
+# Working Pototype
 **Here is a working prototype of electromagnets sequencing the ferrofluid in the display panel:**
+
+The 16 coil demo next to the large sample tank<br/>
+![coil_and_tank](https://github.com/Elipsit/ext-liquidmonolith/blob/main/pics/prototypes/Coils_and%20_tank.jpg)
+
+Here is a working demo<br/>
 
 [![Demo_16_Array](https://img.youtube.com/vi/od863sYBf_k/0.jpg)](https://www.youtube.com/watch?v=od863sYBf_k)
 
@@ -76,14 +84,7 @@ Here is the completed tank<br/>
 Here is a Video:<br/>
 [![Demo_Tank](https://img.youtube.com/vi/9LUUrNeGJJY/0.jpg)](https://www.youtube.com/watch?v=9LUUrNeGJJY)
 
-# Working Pototype
 
-The 16 coil demo next to the large sample tank<br/>
-![coil_and_tank](https://github.com/Elipsit/ext-liquidmonolith/blob/main/pics/prototypes/Coils_and%20_tank.jpg)
-
-Here is a working demo<br/>
-
-[![Demo_16_Array](https://img.youtube.com/vi/od863sYBf_k/0.jpg)](https://www.youtube.com/watch?v=od863sYBf_k)
 
 
 
