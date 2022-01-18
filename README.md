@@ -23,3 +23,5 @@ This project is in a prototype development stage
 
 
 [![Demo](https://youtu.be/9LUUrNeGJJY/0.jpg)](https://www.youtube.com/watch?v=9LUUrNeGJJY)
+
+[![Alt text](https://img.youtube.com/vi/9LUUrNeGJJY/0.jpg)](https://www.youtube.com/watch?v=9LUUrNeGJJY)
