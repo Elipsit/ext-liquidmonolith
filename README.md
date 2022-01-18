@@ -38,7 +38,7 @@ I made a custom board to test the coils <br/>
 ![Driver_RevA](https://github.com/Elipsit/ext-liquidmonolith/blob/main/pics/prototypes/Coil-Driver_Rev_A.jpg)
 
 Here is a video of the start up test:<br/>
-[![PWM_Driver](https://img.youtube.com/vi/CkvBs--dNo/0.jpg)](https://www.youtube.com/watch?v=CkvBs--dNo)
+[![PWM_Driver](https://img.youtube.com/vi/yCkvBs--dNo/0.jpg)](https://www.youtube.com/watch?v=yCkvBs--dNo)
 
 ## Ferrofluid Tank
 
@@ -56,7 +56,7 @@ Some coatings perfromed better than others:<br/>
 			
 Here is a video of testing:<br/>
 			
-[![PWM_Driver](https://img.youtube.com/vi/yCkvBs--dNo/0.jpg)](https://www.youtube.com/watch?v=yCkvBs--dNo)
+[![Sample_tank](https://img.youtube.com/vi/yCkvBs--dNo/0.jpg)](https://www.youtube.com/watch?v=yCkvBs--dNo)
 
 several glue and epoxy options were tested before a water tight solution was found:<br/>
 
