@@ -1,19 +1,20 @@
 # ext-liquidmonolith
-** Burning Man 2022; Project Liquid Monolith **
+**Burning Man 2022; Project Liquid Monolith**
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 
 ## Project Description
 The Liquid Monolith invites participants to see the world through different lenses, by presenting them with a fluid moving display that resembles "Rorschach Inkblot Tests" that helps us unravel their dreams. 
-
+*
 ![LM_Cover_Photo](https://github.com/Elipsit/ext-liquidmonolith/blob/main/pics/media/LM_Cover_Photo.jpg)
 
 ### Current Status
 This project is in a prototype development stage
-** Here is a working prototype of electromagnets sequencing the ferrofluid in the display panel:**
+**Here is a working prototype of electromagnets sequencing the ferrofluid in the display panel:**
 
 [![Demo_16_Array](https://img.youtube.com/vi/od863sYBf_k/0.jpg)](https://www.youtube.com/watch?v=od863sYBf_k)
 
 ## Youtube Videos
-** This is a link to the playlist of testing videos: **
+**This is a link to the playlist of testing videos:**
 https://youtube.com/playlist?list=PLEcu0RNHthJt5TEQliIqUSDUa66y-6SBE
 
 # Project Research
