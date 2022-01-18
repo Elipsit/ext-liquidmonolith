@@ -28,13 +28,6 @@ I ordered a sample ferrofluid vial and used a custom PCB from a previous project
 
 [![Demo_single](https://img.youtube.com/vi/ZpuwwRlafGQ/0.jpg)](https://www.youtube.com/watch?v=ZpuwwRlafGQ)
 
-The 16 coil demo next to the large sample tank<br/>
-![coil_and_tank](https://github.com/Elipsit/ext-liquidmonolith/blob/main/pics/prototypes/Coils_and%20_tank.jpg)
-
-Here is a working demo<br/>
-
-[![Demo_16_Array](https://img.youtube.com/vi/od863sYBf_k/0.jpg)](https://www.youtube.com/watch?v=od863sYBf_k)
-
 I chose to settle of a smaller one that was cheaper. A smaller coil required a system voltage increase from 12V to 24V to maintain the needed force.<br/>
 
 Here is our prototype 16 coil array:<br/>
