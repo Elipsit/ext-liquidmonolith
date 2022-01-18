@@ -56,7 +56,7 @@ Some coatings perfromed better than others:<br/>
 			
 Here is a video of testing:<br/>
 			
-[![Sample_tank](https://img.youtube.com/vi/yCkvBs--dNo/0.jpg)](https://www.youtube.com/watch?v=yCkvBs--dNo)
+[![Sample_tank](https://img.youtube.com/vi/bsLCswysqHQ/0.jpg)](https://www.youtube.com/watch?v=bsLCswysqHQ)
 
 several glue and epoxy options were tested before a water tight solution was found:<br/>
 
