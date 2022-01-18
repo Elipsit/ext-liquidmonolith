@@ -7,6 +7,8 @@ Burning Man 2022; Project Liquid Monolith
 ### Current Status
 This project is in a prototype development stage
 
+[![Demo_16_Array](https://img.youtube.com/vi/od863sYBf_k/0.jpg)](https://www.youtube.com/watch?v=od863sYBf_k)
+
 # Project Research
 
 ## Electrical
@@ -16,12 +18,13 @@ This project is in a prototype development stage
 
 ## Ferrofluid Tank
 
+[![Demo_Tank](https://img.youtube.com/vi/9LUUrNeGJJY/0.jpg)](https://www.youtube.com/watch?v=9LUUrNeGJJY)
+
 # Working Pototype
 
 ![Completed_large_tank](https://github.com/Elipsit/ext-liquidmonolith/blob/main/pics/prototypes/completed_large_tank.jpg)
 
 
 
-[![Demo](https://youtu.be/9LUUrNeGJJY/0.jpg)](https://www.youtube.com/watch?v=9LUUrNeGJJY)
 
-[![Alt text](https://img.youtube.com/vi/9LUUrNeGJJY/0.jpg)](https://www.youtube.com/watch?v=9LUUrNeGJJY)
+
